@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="250" src="![logo](https://user-images.githubusercontent.com/58152411/179440045-03cda7ef-30b5-47c5-b433-c65db8ade2d5.png)" alt="Duck lol">
+    <img width="250" src="https://user-images.githubusercontent.com/58152411/179440045-03cda7ef-30b5-47c5-b433-c65db8ade2d5.png" alt="Duck lol">
 </p>
 
 # Guiduck

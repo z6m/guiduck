@@ -1,3 +1,3 @@
 # Guiduck
 
-An unofficial GUI client for text to speech using [Uberduck](https://uberduck.ai/) that allows for easy to use independant pitch and speed manipulation to speed up a TTS-heavy content creation workflow. Inspired by the features of [SAPI4](https://github.com/TETYYS/SAPI4).
+An unofficial GUI client for text-to-speech using [Uberduck](https://uberduck.ai/) that allows for easy to use independant pitch and speed manipulation to speed up a TTS-heavy content creation workflow. Inspired by the features of [SAPI4](https://github.com/TETYYS/SAPI4).
